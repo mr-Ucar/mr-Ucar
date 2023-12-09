@@ -1,16 +1,18 @@
-### Hi there 👋
+👨‍🏫 Hello, I'm an instructor striving to be a positive role model for my students and fellow learners. I'm committed to continuous improvement and self-growth. 📚✨
 
-<!--
-**mr-Ucar/mr-Ucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### New Year's Resolutions:
 
-Here are some ideas to get you started:
+1. 🐍 Improve proficiency in Python, PHP, and JavaScript.
+2. 🇫🇷  Learn the beautiful language of French.
+3. ☁️ Acquire the AWS Cloud Security Certificate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's embark on this exciting journey of learning and development together! 💪🚀
+
+  
+
+<div align="center">
+  <a href="https://github.com/mr-Ucar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-Ucar&show_icons=true&theme=dracula"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ucar&layout=compact&langs_count=8&theme=radical&cache_seconds=1600"/>
+
