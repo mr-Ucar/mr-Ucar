@@ -1,6 +1,13 @@
-👨‍🏫 Hello, I'm an instructor striving to be a positive role model for my students and fellow learners. I'm committed to continuous improvement and self-growth. 📚✨
+👨‍🏫 Hello, I'm an instructor, a passionate 🚀 explorer and also a life-long learner 🌟 striving to be a positive role model for my students and fellow learners. I'm committed to continuous improvement and self-growth. 📚✨
 
-### New Year's Resolutions:
+
+
+I thrive on experimenting with new ideas and embracing challenges to elevate myself. The dual joys of self-discovery and learning from others fuel my passions. 🌱💡
+
+Dedicated to making a positive impact, I wholeheartedly give back to the community that has enriched my journey. 🌍✨
+
+
+### My New Year's Resolutions:
 
 1. 🐍 Improve proficiency in Python, PHP, and JavaScript.
 2. 🇫🇷  Learn the beautiful language of French.
