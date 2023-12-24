@@ -6,6 +6,7 @@ I thrive on experimenting with new ideas and embracing challenges to elevate mys
 
 Dedicated to making a positive impact, I wholeheartedly give back to the community that has enriched my journey. 🌍✨
 
+https://github.com/mr-Ucar/mr-Ucar/assets/116120748/2eb9e4de-49ef-4543-b6b7-dcf8365cf998
 
 ### My New Year's Resolutions:
 
