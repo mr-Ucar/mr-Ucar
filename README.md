@@ -24,3 +24,5 @@ Let's embark on this exciting journey of learning and development together! 💪
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Ucar&layout=compact&langs_count=8&theme=radical&cache_seconds=1600"/>
 
+### _Not my actual voice as you can guess, but listen to me:_ </br> 😄
+https://github.com/mr-Ucar/mr-Ucar/assets/116120748/b9d3d2c3-a89d-4eba-945b-00d884652008
